@@ -1,7 +1,10 @@
 ### Obsidian-To-Anki Script
 
 #### Demo
-https://streamable.com/bhd3en
+https://github.com/user-attachments/assets/0502dcde-d3fd-4281-9a91-69e996dcf8c9
+
+(If the video above doesn't work, try out this streamable link) https://streamable.com/bhd3en
+
 
 #### Description
 This script helps convert revision/review questions in obsidian into a formatted csv file, which can then be easily imported into anki.
